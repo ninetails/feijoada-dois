@@ -1,7 +1,7 @@
 {
-  "name": "tutorial",
-  "version": "1.0.0",
-  "description": "",
+  "name": "feijoada-dois",
+  "version": "0.0.1",
+  "description": "Studies about react-router using reactjs/react-router-tutorial.",
   "main": "index.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
